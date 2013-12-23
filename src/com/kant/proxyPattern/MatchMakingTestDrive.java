@@ -58,7 +58,7 @@ public class MatchMakingTestDrive {
 	}
 
 	/**
-	 * Get owner proxy for the PersonBean.
+	 * Get owner Proxy for the PersonBean.
 	 * 
 	 * @param person
 	 * @return
@@ -70,6 +70,7 @@ public class MatchMakingTestDrive {
 	}
 
 	/**
+	 * Get Non-Owner proxy for PersonBean.
 	 * 
 	 * @param person
 	 * @return
